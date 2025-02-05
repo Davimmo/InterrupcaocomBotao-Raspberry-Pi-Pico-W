@@ -11,12 +11,6 @@ Para compilar e executar este projeto, são necessárias as seguintes ferramenta
 - **CMake**
 - **Raspberry Pi Pico Project**
 
-## Estrutura do Código
-O código está dividido em duas pastas principais:
-
-- **BitDogLab:** Contém o código adaptado para a placa BitDogLab.
-- **Simulacao:** Contém os arquivos necessários para simulação no Wokwi.
-
 O código está organizado da seguinte forma:
 
 - **Definições de Pinos:**
